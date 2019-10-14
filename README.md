@@ -6,7 +6,7 @@ With the Structure Sensor, the future is in your hands. Rapid 3D scanning of obj
 * [Where To Find](#where-to-find)
 * [In The Box](#in-the-box)
 * [Apps from Occipital](#apps-from-occipital)
-* [Functions and Usages](#functions and Usages)
+* [Functions and Usages](#functions-and-Usages)
 * [SDK](#sdk)
   * [Bridge Engine](#bridge-engine)
   * [Structure SDK for iOS](#structure-sdk-for-ios)
