@@ -26,8 +26,8 @@ Power Adapter: To preserve the battery life of your iPad, Structure Sensor has i
 USB Hacker Cable is needed when using Structure Sensor with a non-iOS Device.
 ![alt text](images/boxes.jpg)
 ![alt text](images/structure_sensor.jpg)
-![alt text](image/assembly.jpg)
-![alt text](image/everything.jpg)
+![alt text](images/assembly.jpg)
+![alt text](images/everything.jpg)
 
 ## Apps from Occipital
 * Calibrator: This app is used for calibrating your stucture sensor to your iOS device. It includes calibrating bracket to your iOS camera, calibrationg a Wide Vision Lens, Indoor Mode and other advanced features. You can download and print the checkerboard pattern from this link https://structure.io/checkerboard.
