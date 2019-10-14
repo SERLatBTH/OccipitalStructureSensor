@@ -10,9 +10,9 @@ Bridge Engine is Occipital's next-generation mixed and virtual reality software.
 
 ### Structure SDK for iOS
 Structure SDK provides developers with a stable, easy-to-use, flexible and constantly-improving framework for creating iOS applications in Xcode which leverage advanced computer vision techniques. The SDK download includes:
-    + Structure.framework for Xcode 
-    + Source code for Unbounded Tracker, Room Capture, Scanner, Viewer, and Unity-based Samples (Unbounded Tracker, and AR Samples)
-    + API Documentation
+    * Structure.framework for Xcode 
+    * Source code for Unbounded Tracker, Room Capture, Scanner, Viewer, and Unity-based Samples (Unbounded Tracker, and AR Samples)
+    * API Documentation
 
 ### Access the SDK
 To access the SDK you need to visit the structre sensor website and become a developer by registering a new account. Go to this link https://developer.structure.io/sdk to get started 
